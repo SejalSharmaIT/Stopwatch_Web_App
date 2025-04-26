@@ -2,8 +2,11 @@
 A simple and elegant stopwatch web app that allows users to:
 
 Start, stop, and reset the timer
+
 Track and display multiple lap times
+
 Auto-scroll through lap history
+
 Enjoy a stylish and responsive design
 
 🌟 Features
